@@ -1,0 +1,10 @@
+/Users/eugenebenitez/Desktop/C_Sharp/Deck/obj/Debug/netcoreapp2.0/Deck.csproj.CoreCompileInputs.cache
+/Users/eugenebenitez/Desktop/C_Sharp/Deck/obj/Debug/netcoreapp2.0/Deck.AssemblyInfoInputs.cache
+/Users/eugenebenitez/Desktop/C_Sharp/Deck/obj/Debug/netcoreapp2.0/Deck.AssemblyInfo.cs
+/Users/eugenebenitez/Desktop/C_Sharp/Deck/bin/Debug/netcoreapp2.0/Deck.deps.json
+/Users/eugenebenitez/Desktop/C_Sharp/Deck/bin/Debug/netcoreapp2.0/Deck.runtimeconfig.json
+/Users/eugenebenitez/Desktop/C_Sharp/Deck/bin/Debug/netcoreapp2.0/Deck.runtimeconfig.dev.json
+/Users/eugenebenitez/Desktop/C_Sharp/Deck/bin/Debug/netcoreapp2.0/Deck.dll
+/Users/eugenebenitez/Desktop/C_Sharp/Deck/bin/Debug/netcoreapp2.0/Deck.pdb
+/Users/eugenebenitez/Desktop/C_Sharp/Deck/obj/Debug/netcoreapp2.0/Deck.dll
+/Users/eugenebenitez/Desktop/C_Sharp/Deck/obj/Debug/netcoreapp2.0/Deck.pdb
